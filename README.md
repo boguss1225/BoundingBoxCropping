@@ -1,8 +1,8 @@
 # BoundingBoxCropping
 Cropping images acrroding to relavent xml details\
 and Save cropped images in automatically generated class folders.\
-User can easily crop and classify images.
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture7.PNG)
+User can easily crop and classify images.\
+![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture7.png)
 
 # Description
 source folder has to be consisted of images and xml files.
@@ -12,7 +12,7 @@ source folder has to be consisted of images and xml files.
 \
 contents of source folder.
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture1.PNG)
+![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture11.PNG)
 \
 contents of xml files
 
