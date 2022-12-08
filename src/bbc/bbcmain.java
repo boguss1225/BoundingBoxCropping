@@ -150,7 +150,8 @@ public class bbcmain {
 							
 							//save image with modified name
 							numb++;
-							filename = filepathwithoutextension.substring(filepathwithoutextension.lastIndexOf('\\')+1, filepathwithoutextension.length());
+							File f = new File(filepathwithoutextension);
+							filename = f.getName();
 							
 							//folder create if not exists
 								File directory = new File(destinPath + name);
