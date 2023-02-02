@@ -2,7 +2,7 @@
 + Cropping objects from images acrroding to corresponding xml details.
 + Save cropped images in automatically generated per-class folders.
 + User can easily crop and inspect images according to its class.
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture7.png)
+![picture](ScreenShots/capture7.png)
 
 # Preparation
 source folder has to be consisted of images and xml files.
@@ -25,39 +25,39 @@ ${source_root}
 # Description
 ↓ Contents of source folder.
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture1.PNG)
+![picture](ScreenShots/capture1.PNG)
 \
 \
 ↓ Contents of xml files
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture11.PNG)
+![picture](ScreenShots/capture11.PNG)
 \
 
 
 # Usage
 ↓ Initial screen of the program
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture2.PNG)
+![picture](ScreenShots/capture2.PNG)
 \
 \
 ↓ Enter source path, check image type, enter saving path. 
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture3.PNG)
+![picture](ScreenShots/capture3.PNG)
 \
 \
 ↓ Cropping finished
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture4.PNG)
+![picture](ScreenShots/capture4.PNG)
 \
 \
 ↓ Saved images in classified folders
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture5.PNG)
+![picture](ScreenShots/capture5.PNG)
 \
 \
 ↓ Cropped image
 \
-![picture](https://github.com/boguss1225/BoundingBoxCropping/blob/master/ScreenShots/capture6.PNG)
+![picture](ScreenShots/capture6.PNG)
 \
 
 
